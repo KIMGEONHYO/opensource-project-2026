@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build artifacts
+*.o
+/mysh
+/simplesh
+
+*.o
+*.o
+*.o
